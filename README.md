@@ -5,6 +5,7 @@ This function ask the user to input an interger then it will generate a math tab
 The program will ask the user if he/she wanna try again.
 
 
+
 def math_table():
     while True:
         number = input('Please enter an integer number: ')
@@ -31,3 +32,4 @@ def math_table():
             continue
           
         
+
